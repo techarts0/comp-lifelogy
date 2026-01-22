@@ -8,14 +8,12 @@
 ![Status](https://img.shields.io/badge/status-Writing-orange)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
-## 💡 项目简介 (Introduction)
-
 ## 📚 目录 (Table of Contents)
 
 本书共 12 章，对应代码江湖的 12 种心法：
 
 - [ ] **01. 包容 (Inclusive)** - 水至清则无鱼
-- [ ] **02. 定力 (Equanimity)** - 隔墙花影动，疑是玉人来
+- [ ] **02. 定力 (Equanimity)** - 待月西厢下
 - [ ] **03. 洞察 (Insight)** - 不畏浮云遮望眼
 - [ ] **04. 务实 (Pragmatism)** - 莫在浮沙起高楼
 - [ ] **05. 取舍 (Trade-offs)** - 世间安得双全法
@@ -34,8 +32,7 @@
 这本书本身就是一个**开源项目**。我非常欢迎你通过以下方式参与：
 
 1.  **阅读与反馈**：如果你对某一章有感触，或者发现了逻辑漏洞，欢迎提交 [Issue](https://github.com/techarts0/comp-lifelogy/issues) 讨论。
-2.  **分享你的故事**：如果你有类似的生活经历能印证书中的观点，欢迎分享给我，它可能会成为书中的案例。
-3.  **纠错 (Pull Requests)**：发现错别字或技术描述不准确？直接 Fork 并提交 PR 吧！
+2.  **纠错 (Pull Requests)**：发现错别字或技术描述不准确？直接 Fork 并提交 PR 吧！
 
 ## 📄 版权说明 (License)
 
